@@ -1,0 +1,2 @@
+# Keyboard---VGA-Controller-using-SPARTAN---3-FPGA
+Verilog-programmed SPARTAN-3 FPGA system for inputting and displaying characters. Specifically, certain characters (Arrow Keys, 1,2,3,4,f) are pressed on the keybord, decoded on the FPGA and the appropriate signals are sent onto the VGA. Everything regarding the synchronization and communication between FPGA, Screen and Keyboard was done manually. 
